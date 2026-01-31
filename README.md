@@ -3,7 +3,7 @@
 
 ```text
 portifolio-docker/
-├── public-html/          # Pasta com seu HTML, CSS e Imagens
+├── public-html/          # Pasta com HTML, CSS e Imagens
 │   ├── index.html
 │   ├── style.css
 │   └── imagens/
