@@ -34,8 +34,6 @@ Este projeto consiste na implantação de uma aplicação web estática (Portfó
 
 ## Como rodar o projeto
 
-Adicione estas instruções para quem baixar seu código:
-
 1. Clone o repositório: `git clone <link-do-seu-repo>`
 2. Navegue até a pasta: `cd portifolio-docker`
 3. Suba os containers: `docker-compose up -d`
